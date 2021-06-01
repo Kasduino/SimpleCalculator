@@ -1,2 +1,2 @@
 # SimpleCalculatorForBeginners
-A simple calculator for beginners.
+A simple calculator for beginners. This calculator is written in java. This calculator is meant to teach new beginners that haven't learned anything yet some basic knowledge on coding in java. If you have any questions, please notify me in the pull requests page. Kasduino will try to respond as quick as we can. Enjoy learning to code the very basics of java. If you think anything should be added, also feel free to create a pull request. Thank you and have fun.
